@@ -1,6 +1,6 @@
 # MongoDb - Projeto Final
 **Autor:** Bruno Motta Azevedo do Nascimento
-**Data** :ISODate("2017-01-13T00:00:00.000Z")
+**Data** Date.now() //em timestamp
 
 ## Para qual sistema você usaria o MogoDB (diferente desse)?
 ```
